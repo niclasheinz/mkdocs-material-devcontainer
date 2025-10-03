@@ -1,6 +1,6 @@
 {
     "name": "Python Dev Container",
-    "image": "mcr.microsoft.com/devcontainers/python:3.10-bookworm",
+    "image": "mcr.microsoft.com/devcontainers/python:3.14",
     "customizations": {
       "vscode": {
         "settings": {
